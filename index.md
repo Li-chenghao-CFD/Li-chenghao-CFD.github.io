@@ -4,11 +4,24 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jinyuan_cv.pdf">CV</a>, 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JZoiqx8AAAAJ&view_op=list_works&gmla=AJsN-F6ZzJ_d96OQwlVnTF-oqgqrxpQnrrX771f60xKjQMz51DZlzs8GPt2_hGTrI5Vis-FTSqWTNqORvViWrQAw0LyK6ICOSOHpf_kRtJV1T8P-A4sOgGk), [ORCID](https://orcid.org/0000-0003-4133-0930), [LinkedIn](https://www.linkedin.com/in/liu-jinyuan/)  
 
+<!-- Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with Sutanu Sarkar in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). He is generally interested in the physics and numerical simulation of turbulence in canonical (homogeneous, free shear, and wall-bounded) and geophysical (stratified and/or rotating) flows. His current research focuses on instabilities, coherent structures, and turbulence in such flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
+
+Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in January 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
+
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He started playing Go (Wei-Qi) in elementary school and was ranked amateur 5-dan by the Chinese Go Association.  -->
+
 Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with Sutanu Sarkar in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). He is generally interested in the physics and numerical simulation of turbulence in canonical (homogeneous, free shear, and wall-bounded) and geophysical (stratified and/or rotating) flows. His current research focuses on instabilities, coherent structures, and turbulence in such flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
 
 Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in January 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
 
 Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He started playing Go (Wei-Qi) in elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
+
+Chenghao is currently a Research Assistant in Mechanical Engineering at the University of Tianjin University. He works with Yongliang Feng.
+He is generally interested in the physics and numerical simulation of wind turbines and lattice Boltzmann method and other numerical schemes. 
+His current research focuses on development of lattice Boltzmann methods for high Reynolds numbers and high Mach numbers flows. 
+
+Chenghao received his Bachelor's Degree in Flight Vehicle Propulsion Engineering from Civil Aviation University of China, in 2021. After, he
+joined the, research on the aerodynamic of wind turbine under blade pitching motion. 
 
 His name in Chinese characters is 李诚昊. 
    
@@ -40,8 +53,10 @@ Research Assistant, Aug. 2024 - present
    advised by [Yongliang Feng](https://www.researchgate.net/profile/Yongliang-Feng-2)  
 
 ### Publications, pre-prints, and thesis  
-**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Turbulence in stratified rotating topographic wakes. _in revision, Journal of Physical Oceanography_, 2025 [(arXiv)](https://arxiv.org/abs/2502.06129) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/topowakes_arxiv.pdf">(pdf)</a> [(data)](https://zenodo.org/records/15549518)   
-**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratified ﬂow. _Journal of Fluid Mechanics_, vol. 999, A44, 2024 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Puthan_Sarkar_24_JFM.pdf">(pdf)</a>, [(link)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effect-of-rotation-on-wake-vortices-in-stratified-flow/30B8C6BA67358B687BE5C4CBCD6DA7A1)  
+**Chenghao Li**, Tianyu Pan, Teng Li, Mengzong Zheng, Qiushi Li, Earl Dowell. Turbulence in stratified rotating topographic wakes. _in revision, Journal of Physical Oceanography_, 2025 [(arXiv)](https://arxiv.org/abs/2502.06129) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/topowakes_arxiv.pdf">(pdf)</a> [(data)](https://zenodo.org/records/15549518)  
+
+**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Aerodynamic Behavior of a Wind Turbine Under Blade Pitching Motion. _AIAA Journal_, vol. 63, Issue 4, 2024 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Puthan_Sarkar_24_JFM.pdf">(pdf)</a>, [(link)](https://arc.aiaa.org/doi/10.2514/1.J063926)  
+
 **Jinyuan Liu** and Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Journal of Physics: Conference Series (Proceeding for the fifth Madrid Turbulence Summer School),_ 2024  [(link)](https://iopscience.iop.org/article/10.1088/1742-6596/2753/1/012007) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Sarkar_cowakes.pdf">(pdf)</a>     
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
 **Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
