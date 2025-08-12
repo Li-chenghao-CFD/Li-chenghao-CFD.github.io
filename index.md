@@ -10,19 +10,34 @@ Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghu
 
 Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He started playing Go (Wei-Qi) in elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
 
-His name in Chinese characters is 刘晋源. 
+His name in Chinese characters is 李诚昊. 
    
-### Education
+<!-- ### Education
 Ph.D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego,  
    advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
    
 B.S.E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University   
+
+B.S.E. in Flight Vehicle Propulsion Engineering (with distinction), Aug. 2017 - June 2021  
+   School of Aeronautics, Civil Aviation University of China  
     
 Visiting Research Student, Sep. 2019 - Feb. 2020  
    School of Aeronautics, Universidad Politecnica de Madrid,  
-   advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
+   advised by [Javier Jimenez](https://torroja.dmt.upm.es/)   -->
+
+### Education
+Master. in Energy and Power Engineering, Aug. 2021 - June 2024  
+   Department of Fluid Mechanics and Turbomachinery, Beihang University,  
+   advised by [Tianyu Pan](https://www.researchgate.net/profile/Tianyu-Pan-3)  
+   
+B.S.E. in Flight Vehicle Propulsion Engineering (with distinction), Aug. 2017 - June 2021  
+   School of Aeronautics, Civil Aviation University of China  
+    
+Research Assistant, Aug. 2024 - present  
+   School of Mechanical Engineering, Tianjin University,  
+   advised by [Yongliang Feng](https://www.researchgate.net/profile/Yongliang-Feng-2)  
 
 ### Publications, pre-prints, and thesis  
 **Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Turbulence in stratified rotating topographic wakes. _in revision, Journal of Physical Oceanography_, 2025 [(arXiv)](https://arxiv.org/abs/2502.06129) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/topowakes_arxiv.pdf">(pdf)</a> [(data)](https://zenodo.org/records/15549518)   
