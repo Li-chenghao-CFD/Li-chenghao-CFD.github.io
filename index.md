@@ -46,20 +46,21 @@ Master. in Energy and Power Engineering, Aug. 2021 - June 2024
    advised by [Tianyu Pan](https://www.researchgate.net/profile/Tianyu-Pan-3)  
    
 B.S.E. in Flight Vehicle Propulsion Engineering (with distinction), Aug. 2017 - June 2021  
-   School of Aeronautics, Civil Aviation University of China  
+   College of Aeronautical Engineering, Civil Aviation University of China  
     
 Research Assistant, Aug. 2024 - present  
    School of Mechanical Engineering, Tianjin University,  
    advised by [Yongliang Feng](https://www.researchgate.net/profile/Yongliang-Feng-2)  
 
+
 ### Publications, pre-prints, and thesis  
-**Chenghao Li**, Tianyu Pan, Teng Li, Mengzong Zheng, Qiushi Li, Earl Dowell. Turbulence in stratified rotating topographic wakes. _in revision, Journal of Physical Oceanography_, 2025 [(arXiv)](https://arxiv.org/abs/2502.06129) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/topowakes_arxiv.pdf">(pdf)</a> [(data)](https://zenodo.org/records/15549518)  
+**Chenghao Li**, Jie Chen, Yongliang Feng. A filtered recursive regularization collision model for lattice Boltzmann method. _Physical review E_, 2025, under review.
 
-**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Aerodynamic Behavior of a Wind Turbine Under Blade Pitching Motion. _AIAA Journal_, vol. 63, Issue 4, 2024 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Puthan_Sarkar_24_JFM.pdf">(pdf)</a>, [(link)](https://arc.aiaa.org/doi/10.2514/1.J063926)  
+**Chenghao Li**, Tianyu Pan, Teng Li, Mengzong Zheng, Qiushi Li, Earl Dowell. Aerodynamic Behavior of a Wind Turbine Under Blade Pitching Motion. _AIAA Journal_, vol. 63, Issue 4,
+, 2025 [(link)](https://arc.aiaa.org/doi/10.2514/1.J063926) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Sarkar_cowakes.pdf">(pdf)</a>
 
-**Jinyuan Liu** and Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Journal of Physics: Conference Series (Proceeding for the fifth Madrid Turbulence Summer School),_ 2024  [(link)](https://iopscience.iop.org/article/10.1088/1742-6596/2753/1/012007) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Sarkar_cowakes.pdf">(pdf)</a>     
-Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
-**Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
+Tianyu Pan, Teng li, **Chenghao Li**, Zhaoqi Yan, and Qiushi Li. Frequency lock-in mechanism in the presence of blockage effects. _Physics of Fluids_, 36:077132, 2024 [(link)](https://pubs.aip.org/aip/pof/article-abstract/36/7/077132/3303155/Frequency-lock-in-mechanism-in-the-presence-of?redirectedFrom=fulltext) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
+
 
 ### Talks and conference presentations  
 The 78th Annual Meeting of APS DFD, Houston, November 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_25_liu.pdf">(abstract)</a>   
